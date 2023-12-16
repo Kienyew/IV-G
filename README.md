@@ -12,3 +12,8 @@ NCF 实现参考：https://www.kaggle.com/code/jamesloy/deep-learning-based-reco
 - [ ] 14 周：将 baseline NCF 扩展为双塔模型
 - [ ] 15 周：随便优化（可选）
 - [ ] 16 周：PPT & 答辩
+
+#### YoutubeDNN
+
+- Download m1-1m dataset in https://grouplens.org/datasets/movielens/1m/ and put the dataset in the root directory
+- run run_youtubednn.py
