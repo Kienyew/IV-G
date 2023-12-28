@@ -1,6 +1,6 @@
 # 共科创 IV-G 小组代码仓库
 
-数据集： https://grouplens.org/datasets/movielens/latest/
+数据集： https://files.grouplens.org/datasets/movielens/ml-1m.zip
 
 NCF 实现参考：https://www.kaggle.com/code/jamesloy/deep-learning-based-recommender-systems
 
